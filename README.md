@@ -4,17 +4,14 @@ This is a project built for the coding assignment assigned to me (Tin Tran) by S
 All the instruction can be founded [here](./src/INSTRUCTIONS.md) and also the original README [here](./originalREADME.md).
 
 **Installation Instruction**
-Install:
-    ```yarn bootstrap```
+Install: ```yarn bootstrap```
 
 This installs everything for the App as well as the Server, so please don't run ```npm install``` (unless you also want to run it from the `server` folder)
 
-## Running the App
-Run:
+Run The App:
     ```yarn start```
 
-## Testing the App
-Run:
+Test The App:
     ```yarn test```
 
 ## Execution
