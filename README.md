@@ -1,6 +1,22 @@
 # Introduction
 This is a project built for the coding assignment assigned to me (Tin Tran) by Skedulo. The project is a job listing web page with job's data fetched from a JSON file and display them as component in React.js. Also we have the search bar available as our disposal to search and filter through jobs, the search bar only accepts 3 or characters plus, it won't show anything under 3 keywords, according to the requirements of this project.
 
+All the instruction can be founded [here](./src/INSTRUCTIONS.md) and also the original README [here](./originalREADME.md).
+
+**Installation Instruction**
+Install:
+    ```yarn bootstrap```
+
+This installs everything for the App as well as the Server, so please don't run ```npm install``` (unless you also want to run it from the `server` folder)
+
+## Running the App
+Run:
+    ```yarn start```
+
+## Testing the App
+Run:
+    ```yarn test```
+
 ## Execution
 First I read the README and Instruction files to get the overall idea of the assignment and the problem to solve. After some insights consideration, I named this problem as "List All Jobs Posting with a Search Functionality".
 
