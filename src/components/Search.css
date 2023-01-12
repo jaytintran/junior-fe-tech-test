@@ -1,0 +1,8 @@
+.jobs__searchbar {
+    padding: 10px 20px;
+    max-width: 600px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    background-color: rgb(214, 214, 240);
+}
